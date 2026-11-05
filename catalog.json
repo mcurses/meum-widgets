@@ -7,13 +7,15 @@
       "description": "A web page as a tab next to your terminals, driven by messages (navigate, reload, screenshot).",
       "author": "Max Studanski",
       "scope": "tile",
-      "version": "1.0",
+      "version": "1.1",
       "apiVersion": "meum.v1",
       "archs": [
         "arm64"
       ],
-      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.meum.browser-v1.0/BrowserWidget.meumwidget.zip",
-      "sha256": "6fbc37bf0eb241a5c0b8db1689e1ab1b7592f611b3c413e524b9cf81202ef009",
+      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.meum.browser-v1.1/BrowserWidget.meumwidget.zip",
+      "sha256": "933567f307a118e89daab625122dfa00cc9a4befb667d3584d3a391ec77cbfd6",
+      "librarySha256": "c23c45a901b032c1e36f0818980a14869de11cd9bcd731b2d84871d57e5b9a3f",
+      "minMeum": "0.3.0",
       "helper": false
     },
     {
