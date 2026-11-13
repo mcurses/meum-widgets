@@ -21,17 +21,17 @@
     {
       "id": "io.github.mcurses.tamago",
       "displayName": "Tamago",
-      "description": "Tama, a small pet in meum's sidebar that watches your coding sessions and comments on them.",
+      "description": "History in Tama's right-click menu: everything it said lately, newest first",
       "author": "Max Studanski",
       "scope": "global",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "apiVersion": "meum.v1",
       "archs": [
         "arm64"
       ],
-      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.0/TamagoMeum.meumwidget.zip",
-      "sha256": "d265ca011164002d4000e619041b8fda5bc3f1c80440a4819011fc5b565c8096",
-      "librarySha256": "adfd68c0cafbb6a81de5d7f6b235ec281c3e979bedb0ee8b43659e704f683174",
+      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.1/TamagoMeum.meumwidget.zip",
+      "sha256": "d2e275deb77e2d6f507d09e436d1be4f7bd6df179b1691eae5b45328abe857d6",
+      "librarySha256": "97d2abfa554fa5f2678d227791a18a2ae0091b202ac8682ffa69161658eba6f8",
       "minMeum": "0.3.0",
       "helper": true
     }
