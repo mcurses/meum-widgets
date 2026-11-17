@@ -21,17 +21,17 @@
     {
       "id": "io.github.mcurses.tamago",
       "displayName": "Tamago",
-      "description": "History in Tama's right-click menu: everything it said lately, newest first",
+      "description": "The widget's own Tama takes over from an old standalone install (and brings its pet along); the card says when it can't reach Tama instead of showing a fresh egg; updates point to meum Settings → Widgets",
       "author": "Max Studanski",
       "scope": "global",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "apiVersion": "meum.v1",
       "archs": [
         "arm64"
       ],
-      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.1/TamagoMeum.meumwidget.zip",
-      "sha256": "d2e275deb77e2d6f507d09e436d1be4f7bd6df179b1691eae5b45328abe857d6",
-      "librarySha256": "97d2abfa554fa5f2678d227791a18a2ae0091b202ac8682ffa69161658eba6f8",
+      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.2/TamagoMeum.meumwidget.zip",
+      "sha256": "1dbcc319f476f12b40aee084a64053f40c70cfdb5121dda7566081cc2947f084",
+      "librarySha256": "3bc7119aeb7722758edd8cd95aec5e79203b750c687554bfbbb9e8a9beb39ce6",
       "minMeum": "0.3.0",
       "helper": true
     }
