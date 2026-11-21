@@ -21,17 +21,17 @@
     {
       "id": "io.github.mcurses.tamago",
       "displayName": "Tamago",
-      "description": "The widget's own Tama takes over from an old standalone install (and brings its pet along); the card says when it can't reach Tama instead of showing a fresh egg; updates point to meum Settings → Widgets",
+      "description": "Listen cheers up the egg, duck, dragon, owl, ghost and cactus, and never hurts any species: the cactus finally has a welcome interaction",
       "author": "Max Studanski",
       "scope": "global",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "apiVersion": "meum.v1",
       "archs": [
         "arm64"
       ],
-      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.2/TamagoMeum.meumwidget.zip",
-      "sha256": "1dbcc319f476f12b40aee084a64053f40c70cfdb5121dda7566081cc2947f084",
-      "librarySha256": "3bc7119aeb7722758edd8cd95aec5e79203b750c687554bfbbb9e8a9beb39ce6",
+      "url": "https://github.com/mcurses/meum-widgets/releases/download/io.github.mcurses.tamago-v0.3.3/TamagoMeum.meumwidget.zip",
+      "sha256": "c5d77f3a6bb1b5b8fd68b92513fd759a336ebeadd5be81fec18ae2951ffa2551",
+      "librarySha256": "d701ff65f1be38a234b5bae92a6643a4e20db259416b504dec8587bb86f0eb9d",
       "minMeum": "0.3.0",
       "helper": true
     }
